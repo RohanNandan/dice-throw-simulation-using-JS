@@ -1,2 +1,2 @@
 # dice-throw-using-JS
-A simple dice throw simulation using js
+To explore JS i bulit this simple dice throw simulation.
