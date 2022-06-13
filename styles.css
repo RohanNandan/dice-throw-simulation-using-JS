@@ -1,0 +1,47 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+.reloadButton{
+  display: block;
+  margin:5% auto 0;
+  color: #4ECCA3;
+  width: 20%;
+  border-radius: 20px;
+  background-color: #393E46;
+  font-size: 3rem;
+  border-width: 3px;
+  font-family: 'Lobster', cursive;
+}
+.reloadButton:hover{
+  background-color: #19191b;
+  cursor: pointer;
+}
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
